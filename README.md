@@ -1,10 +1,10 @@
 | # | Lecture | Class Notes | Source Code | YouTube Video |
 |---:|---|---|---|---|
-| 01 | Introduction to JavaScript | [Open Notes](https://www.notion.so/Introduction-to-Javascript-2763a78e0e22809db99af584c1c5c6ec) | Not provided | [Watch Lecture](https://youtu.be/611_04Ml25c) |
-| 02 | Data Type | [Open Notes](https://www.notion.so/Lecture-02-Data-Type-2773a78e0e228042ba55df0265e78c6b) | Not provided | [Watch Lecture](https://youtu.be/UXYJGHhuGA8) |
-| 03 | V8 Engine & Memory Allocation | [Open Notes](https://www.notion.so/Lecture-03-V8-Engine-Memory-Allocation-27a3a78e0e228017963adec0533f0d78) | Not provided | [Watch Lecture](https://youtu.be/WRBFDQR0oM4) |
-| 04 | Lecture 04 | [Open Notes](https://www.notion.so/Lecture-04-27b3a78e0e228099a515cf3dd04dd9ac) | Not provided | [Watch Lecture](https://youtu.be/7dMQr2-T--4) |
-| 05 | Number, Math and String | [Open Notes](https://www.notion.so/Lecture-05-Number-Math-and-String-27d3a78e0e2280c8a606ceb93c369d1b) | Not provided | [Watch Lecture](https://youtu.be/HTcT-TuraHM) |
-| 06 | String and Date | [Open Notes](https://www.notion.so/Lecture-06-String-and-Date-27e3a78e0e22803ca796f1eef30bc86b) | Not provided | [Watch Lecture](https://youtu.be/8dgsUGEgPXo) |
-| 07 | Array in JavaScript | [Open Notes](https://www.notion.so/Lecture-07-Array-in-javascript-2803a78e0e228002bcb2dffd112b7c4c) | Not provided | [Watch Lecture](https://youtu.be/fuA8BQkQO_E) |
-| 08 | Objects in JavaScript | [Open Notes](https://www.notion.so/Lecture-08-Objects-in-Javascript-2833a78e0e2280109358ee39b2b35e4f) | Not provided | [Watch Lecture](https://youtu.be/iuZkPCBBV5U) |
+| 01 | Introduction to JavaScript | [Open Notes](https://www.notion.so/Introduction-to-Javascript-2763a78e0e22809db99af584c1c5c6ec) | [View Source Code](https://github.com/coderarmy-notes/mern-stack-course/tree/main/03JS) | [Watch Lecture](https://youtu.be/611_04Ml25c) |
+| 02 | Data Type | [Open Notes](https://www.notion.so/Lecture-02-Data-Type-2773a78e0e228042ba55df0265e78c6b) | [View Source Code](https://github.com/coderarmy-notes/mern-stack-course/tree/main/03JS) | [Watch Lecture](https://youtu.be/UXYJGHhuGA8) |
+| 03 | V8 Engine & Memory Allocation | [Open Notes](https://www.notion.so/Lecture-03-V8-Engine-Memory-Allocation-27a3a78e0e228017963adec0533f0d78) | [View Source Code](https://github.com/coderarmy-notes/mern-stack-course/tree/main/03JS) | [Watch Lecture](https://youtu.be/WRBFDQR0oM4) |
+| 04 | Lecture 04 | [Open Notes](https://www.notion.so/Lecture-04-27b3a78e0e228099a515cf3dd04dd9ac) | [View Source Code](https://github.com/coderarmy-notes/mern-stack-course/tree/main/03JS) | [Watch Lecture](https://youtu.be/7dMQr2-T--4) |
+| 05 | Number, Math and String | [Open Notes](https://www.notion.so/Lecture-05-Number-Math-and-String-27d3a78e0e2280c8a606ceb93c369d1b) | [View Source Code](https://github.com/coderarmy-notes/mern-stack-course/tree/main/03JS) | [Watch Lecture](https://youtu.be/HTcT-TuraHM) |
+| 06 | String and Date | [Open Notes](https://www.notion.so/Lecture-06-String-and-Date-27e3a78e0e22803ca796f1eef30bc86b) | [View Source Code](https://github.com/coderarmy-notes/mern-stack-course/tree/main/03JS) | [Watch Lecture](https://youtu.be/8dgsUGEgPXo) |
+| 07 | Array in JavaScript | [Open Notes](https://www.notion.so/Lecture-07-Array-in-javascript-2803a78e0e228002bcb2dffd112b7c4c) | [View Source Code](https://github.com/coderarmy-notes/mern-stack-course/tree/main/03JS) | [Watch Lecture](https://youtu.be/fuA8BQkQO_E) |
+| 08 | Objects in JavaScript | [Open Notes](https://www.notion.so/Lecture-08-Objects-in-Javascript-2833a78e0e2280109358ee39b2b35e4f) | [View Source Code](https://github.com/coderarmy-notes/mern-stack-course/tree/main/03JS) | [Watch Lecture](https://youtu.be/iuZkPCBBV5U) |
